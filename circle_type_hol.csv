@@ -1,0 +1,3 @@
+,Unnamed: 0,store,type,department,date,weekly_sales,is_holiday,temperature_c,fuel_price_usd_per_l,unemployment
+4092,4092,10,B,45,2010-09-10,31.41,True,28.911111111111115,0.7822138156765054,9.199
+4295,4295,10,B,77,2011-11-25,1590.0,True,15.933333333333334,0.9932873849860384,7.874
